@@ -7,11 +7,19 @@ layout: home
 
 
 
-收集并展示一些漫威未来之战资料，方便查找
+
 
 <img src="https://www.nextstepone.ltd/mff/images/introduce2.png" alt="" referrerpolicy="no-referrer">
 
+收集并展示一些漫威未来之战资料，方便查找
 
+收集的所有资料均来自互联网，如有侵权或署名要求请联系我邮箱:[✉:389703618@qq.com ](mailto:389703618@qq.com)或者 QQ🐧:389703618我会尽快回复您~
 
-[Marvel Future Fight] TW论坛  [https://forum.netmarble.com/futurefight_tw/view/2519/1504151]( https://forum.netmarble.com/futurefight_tw/view/2519/1504151)
+Tips：如果图片内容不清晰，请下载原图查看
+
+------
+
+[Marvel Future Fight] TW论坛  [https://forum.netmarble.com/futurefight_tw/list/230/1]( https://forum.netmarble.com/futurefight_tw/list/230/1)
+
+[Marvel Future Fight] EN论坛  [https://forum.netmarble.com/futurefight_en/list/all/1](https://forum.netmarble.com/futurefight_en/list/all/1)
 
