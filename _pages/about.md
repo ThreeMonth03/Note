@@ -10,7 +10,7 @@ layout: post
 
 **ios** 国服玩家 **Nextstepone** ，所在联盟: 地球护卫队
 
-<img src="../images/lianmeng.png" alt="" referrerpolicy="no-referrer">
+<img src="https://the-nextstep.github.io/mff/images/lianmeng.png" alt="" referrerpolicy="no-referrer">
 
 
 
