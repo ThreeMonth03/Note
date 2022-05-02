@@ -21,3 +21,4 @@ Tips：如果图片内容不清晰，请下载原图查看
 
 [Marvel Future Fight] EN论坛  [https://forum.netmarble.com/futurefight_en/list/all/1](https://forum.netmarble.com/futurefight_en/list/all/1)
 
+国外牛人全英文资料大全 [https://21000dollor.com/](https://21000dollor.com/)
