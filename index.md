@@ -7,8 +7,6 @@ layout: home
 
 
 
-
-
 <img src="https://www.nextstepone.ltd/mff/images/introduce2.png" alt="" referrerpolicy="no-referrer">
 
 收集并展示一些漫威未来之战资料，方便查找
