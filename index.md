@@ -9,7 +9,7 @@ layout: home
 
 收集并展示一些漫威未来之战资料，方便查找
 
-![image-20220502175759161](http://funera-hk.oss-cn-hongkong.aliyuncs.com/img/introduce2.png)
+![image-20220502175759161](./images/introduce.jpg)
 
 
 
