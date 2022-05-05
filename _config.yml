@@ -12,6 +12,7 @@ gitbook_version:  3.2.3
 url:              'https://the-nextstep.github.io'
 baseurl:          '/mff'
 rss:              RSS
+baidu-analysis: 10add06563bbb76cf2e36ede53e8bb36
 
 toc:
   enabled: true
