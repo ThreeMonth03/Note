@@ -10,10 +10,6 @@ Tips：如果图片内容不清晰，请下载原图查看；电脑用户可以�
 
 ------
 
-**<font color='red'>奇异博士2：疯狂多元宇宙</font>**  枪版在线看 [http://www.5151gk.com/vodplay/30335-1-1.html](http://www.5151gk.com/vodplay/30335-1-1.html)
-
-**<font color='red'>永恒族高清</font>** 链接：https://pan.baidu.com/s/1YDbLHbMOoyoWTwG64_xreg 提取码：XQFY
-
 开源项目地址，如果觉得有用，**<font color='red'>欢迎帮忙点击⭐star哦~</font>** [https://github.com/The-Nextstep/mff](https://github.com/The-Nextstep/mff)
 
 国外牛人全英文资料大全 [https://21000dollor.com/](https://21000dollor.com/)
