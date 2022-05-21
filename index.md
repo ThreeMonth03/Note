@@ -26,4 +26,3 @@ Tips：如果图片内容不清晰，请下载原图查看；电脑用户可以�
 [Marvel Future Fight] EN论坛  [https://forum.netmarble.com/futurefight_en/list/all/1](https://forum.netmarble.com/futurefight_en/list/all/1)
 
 
-
