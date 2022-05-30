@@ -9,7 +9,7 @@ layout: home
 
 <img src="https://www.nextstepone.ltd/mff/images/introduce2.png" alt="" referrerpolicy="no-referrer">
 
-收集并展示一些《漫威·未来之战》游戏资料，方便查找    **<font color='green'>（新增漫威影视板块，不定时更新一些网盘里的电视剧和电影）</font>**
+收集并展示一些《漫威·未来之战》游戏资料，方便查找   **<font color='red'>（新增模拟工具板块，一些非常好用的工具！！比如卡片精工模拟等等）</font>**
 
 收集的所有资料均来自互联网，如有侵权或署名要求请联系我邮箱:[✉:389703618@qq.com ](mailto:389703618@qq.com)或者 🐧:**389703618**，我会尽快回复您~
 
@@ -24,5 +24,4 @@ Tips：如果图片内容不清晰，请下载原图查看；电脑用户可以�
 [Marvel Future Fight] TW论坛  [https://forum.netmarble.com/futurefight_tw/list/230/1]( https://forum.netmarble.com/futurefight_tw/list/230/1)
 
 [Marvel Future Fight] EN论坛  [https://forum.netmarble.com/futurefight_en/list/all/1](https://forum.netmarble.com/futurefight_en/list/all/1)
-
 
