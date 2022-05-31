@@ -3,14 +3,18 @@ title: 网页内容介绍
 layout: home
 ---
 
+<br >
 
+<p align="left">
+    <a href="https://github.com/The-Nextstep/mff"><img src="https://img.shields.io/github/languages/code-size/The-Nextstep/mff?color=blueviolet"></a>
+    <a href="https://github.com/The-Nextstep/mff"><img src="https://img.shields.io/badge/author-NextstepOne-green.svg"></a>
+    <a href="https://github.com/The-Nextstep/mff"><img src="https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg"></a>
+    <a href="https://github.com/The-Nextstep/mff"><img src="https://img.shields.io/badge/license-Apach-blue.svg"></a>
+</p>
 
+Tips：如果图片内容不清晰，请下载原图查看；电脑用户可以按住 Ctrl ，利用鼠标滑轮调整网页大小，**<font color='cornflowerblue'><u>手机用户菜单在左上角 ( 左上角三条横线菜单栏 )</u></font>**  
 
-
-<img src="https://www.nextstepone.ltd/mff/images/introduce2.png" alt="" referrerpolicy="no-referrer">
-
-- Tips：如果图片内容不清晰，请下载原图查看；电脑用户可以按住 Ctrl ，利用鼠标滑轮调整网页大小，**<font color='cornflowerblue'><u>手机用户菜单在左上角 ( 左上角三条横线菜单栏 )</u></font>**  
-- **<font color='red'>( 新增模拟工具板块，一些非常好用的工具！！比如卡片精工模拟等等 )</font>**
+**<font color='red'>( 新增模拟工具板块，一些非常好用的工具！！比如卡片精工模拟等等 )</font>**
 
 ## 🌐 网站
 
