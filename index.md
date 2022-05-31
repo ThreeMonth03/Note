@@ -5,6 +5,8 @@ layout: home
 
 <br >
 
+<img src="https://www.nextstepone.ltd/mff/images/introduce2.png" alt="" referrerpolicy="no-referrer">
+
 <p align="left">
     <a href="https://github.com/The-Nextstep/mff"><img src="https://img.shields.io/github/languages/code-size/The-Nextstep/mff?color=blueviolet"></a>
     <a href="https://github.com/The-Nextstep/mff"><img src="https://img.shields.io/badge/author-NextstepOne-green.svg"></a>
