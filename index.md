@@ -36,7 +36,7 @@ Tips：如果图片内容不清晰，请下载原图查看；电脑用户可以�
 2. 代码和内容可供同好们参考研究，**引用自互联网** ，有侵权或署名问题请联系我
 3. 喜欢本网站的用户不妨点一下收藏或推荐给朋友
 4. 有建议或BUG可提交本项目github下，**<font color='red'>同时欢迎帮忙点击免费⭐star哦~</font>**  [https://github.com/The-Nextstep/mff](https://github.com/The-Nextstep/mff)
-5. 作者：NextstepOne ( 小One )    /   QQ：389703618   /   ✉ : [389703618@qq.com](mailto:389703618@qq.com)
+5. 作者：ios NextstepOne ( 小One )    /   QQ：389703618   /   ✉ : [389703618@qq.com](mailto:389703618@qq.com)
 
 ### 🌐 网站
 
