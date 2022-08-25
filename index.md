@@ -13,6 +13,7 @@ layout: home
     <a href="https://github.com/The-Nextstep/mff"><img src="https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg"></a>
     <a href="https://github.com/The-Nextstep/mff"><img src="https://img.shields.io/badge/license-Apach-blue.svg"></a>
 </p>
+**<font color='red'>（ 盟友的 IOS国服 PVP顶级账号 出售，详情在出号区 )</font>**
 
 Tips：如果图片内容不清晰，请下载原图查看；电脑用户可以按住 Ctrl ，利用鼠标滑轮调整网页大小，**<font color='cornflowerblue'><u>手机用户菜单在左上角 ( 左上角三条横线菜单栏 )</u></font>**  
 
