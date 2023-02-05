@@ -7,3 +7,4 @@ layout: post
 ---
 
 Test.
+$$E=mc^2$$
