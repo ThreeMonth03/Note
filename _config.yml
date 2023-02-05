@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://threemonth03.github.io'
-baseurl:          '/note'
+url:              'http://note.threemonth03.com'
+baseurl:          ''
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
