@@ -1,7 +1,7 @@
 ---
-title: How to Generate TOC
+title: How to Generate TOC2
 author: Tao He
-date: 2021-08-10
+date: 2021-08-13
 category: Jekyll
 layout: post
 ---
