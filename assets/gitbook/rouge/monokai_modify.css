@@ -9,7 +9,7 @@
   font-style: italic;
 }
 .highlight .c1 {
-  color: #75715e;
+  color: #005724;
   font-style: italic;
 }
 .highlight .cp {
@@ -202,13 +202,13 @@
   color: #49483e;
 }
 .highlight .nl {
-  color: #49483e;
+  color: #d17000;
   font-weight: bold;
 }
 .highlight .nt {
   color: #f92672;
 }
 .highlight {
-  color: #c7b600;
+  color: #f1dd00;
   background-color: #f8f8f2;
 }
