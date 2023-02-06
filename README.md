@@ -14,4 +14,4 @@ permalink: /
 ## 筆記超連結
 
 1. [Information theory and Data Compression](https://note.threemonth03.com/jekyll/2023-02-05-It.html)
-2. C++
+2. [C++](https://note.threemonth03.com/jekyll/2023-02-06-c++.html)
